@@ -1,0 +1,268 @@
+*{
+	background-color:orange;
+	letter-spacing:0.2px;
+	
+}
+
+h1{
+	color:black;
+	margin:0px;
+	padding-top:30px;
+	text-align:center;
+	font-family:SourceSansPro-Black;
+}
+.p1
+{background-color:yellow;
+	border-top-width:1px;
+	padding-right:1px;
+	padding-left:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-bottom-width:1px;
+	margin-top:0px;
+	text-align:center;
+	padding-top:2px;
+	padding-bottom:2px;
+	margin-bottom: 0px
+	
+}
+.cs{
+	text-align:center;
+	background-color:green;
+	margin-top:0px;
+	margin-bottom:0px;
+	padding-top:10px;
+	padding-bottom:10px;	
+}
+.imp{
+	background-color:green;
+	text-shadow: 2px 2px 2px #e00111;
+}
+.season{
+	color:red;
+	background-color:green;
+	font-size:20px;
+}
+.headi {background-color:black;
+	font-weight:bold;
+	font-size:25px;
+	font-style:italic;
+	padding-top:0px;
+	color:white;
+	height:50px;
+	padding-top:15px;
+margin:0px;}
+div.di {
+	color:red;
+	background-color:black;
+	font-size:14px;
+	font-family: 'Waterfall', cursive;
+	padding-top:0px;
+	text-align:center;
+	
+}
+.teksti{
+	font-size:14px;
+	text-align:justify;
+	background-color:#00ff55;
+	color:black;
+	margin-top:20px;
+	width:100%;
+	margin-top:10px;
+	border-bottom-width:0px;
+	font-family:Waterfall;
+}
+p.sup:first-letter{
+	font-size:100%;
+	font-weight:bold;
+	height:16px;
+}
+.tab{
+	color:black;
+	font-size:16px;
+	background-color:black;
+	border:2px solid red ;
+	margin-left:600px;
+}
+.para1{
+	color:red;
+	font-size:16px;
+	padding-bottom:0px;
+	text-align:center;
+	padding-left:0px;
+	background-color:blue;
+	margin-top:0px;
+	padding-top:5px;
+}
+.b1{
+	text-align:center;
+	padding-top:0px;
+	background-color:white;
+}
+ul.l1{
+	background-color:white;
+	list-style-type: circle;
+}
+.tt{color:green;
+background-color:white;}
+.sup{
+	text-indent:400px;
+	background-color:blue;
+	height:17px;
+}
+.rank1{
+	text-indent:250px;
+	background-color:green;
+}
+.h6{
+	background-color:green;
+	text-align:center;
+	font-size:24px;
+	color:black;
+	padding-top:20px;
+	margin-top:-10px;
+	height:20px;
+}	
+.r1{
+	color:white;
+	background-color:blue;
+}
+.reg{
+	margin-top=5px;
+	text-align:center;
+	color:black;	
+	background-color:blue;
+	font-style:italic;
+	font-size:9px;
+font-family: 'Waterfall', cursive;}
+body{
+	margin:0px;
+}
+.div1{
+	margin-bottom:0px;
+	margin-top:0px;
+	text-align:center;
+	background-color:blue;
+	font-size:12px;
+}
+.div2{
+	text-align:center;
+	font-size:10px;
+	color:white;
+	background-color:black;
+	margin-top:0px;
+	padding-top:2px;	
+	text-indent:100px;
+	padding-bottom:2px;
+	
+}
+p{
+	margin-top:0px;
+	margin-bottom:0px;
+}
+form{
+	margin-bottom: 0px;
+}
+a.div1{
+	background-color:black;
+	color:white;
+	font-size:10px;
+}
+.p2
+{	padding-left:40px;
+	background-color:yellow;
+	border-top-width:1px;
+	padding-right:1px;
+	padding-left:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-bottom-width:1px;
+	margin-top:0px;
+	text-align:center;
+	padding-top:2px;
+	padding-bottom:2px;
+	margin-bottom: 0px
+	
+}
+p.p2{
+	padding-left:42px;
+}
+.ht{
+	background-color:blue;
+	font-size:15px;
+	border:2px solid red;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-bottom-width:0px;
+	color:red;
+	
+}
+t.r1{
+	background-color:red;
+	font-size:12px;
+	text-align:center;
+font-family: 'Waterfall', cursive;}
+
+caption.ht{
+	border-left-width:1px;
+	border-right-width:1px;
+}
+h2.id{
+	margin-top:5px;
+	margin-bottom:1px;
+	
+}
+.ll{
+	background-color:blue;
+	font-size:18px;
+	text-align:center;
+}
+.e{background-color:red;
+	font-size:12px;
+	font-style:bold;
+	font-style:italic;
+	text-align:center;
+}
+.h6{
+	margin-top:0px;
+	padding-top:0px;
+	height:30px;
+}
+.r1{
+	padding-top:0px;
+	margin-top:0px;
+	margin-bottom:0px;
+	
+}
+ol li{
+	background:blue;
+	margin:5px;
+	color:black;
+		border:2px solid black;
+}
+ol.c {
+	background-color:blue;
+	margin:0px;
+	border:2px solid black;
+}
+.ii{
+	margin:0px;
+	height:18px;
+	background-color:red;
+	color:yellow;
+border:2px solid black;}
+*{
+	list-style-position: inside;
+}
+.b1
+{
+	background-image: url(1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.teksti{
+	font-family: 'Waterfall', cursive;
+}
+.p2{
+	font-family: 'Waterfall', cursive;
+}
