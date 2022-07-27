@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-27T20:53:16.782Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 OPR/89.0.4447.64" etag="rXFfYujzu8RIxSCJh1yo" version="20.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-27T20:55:34.164Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 OPR/89.0.4447.64" etag="xnvmeVMxCfmMZUymPxmT" version="20.2.2" type="github">
   <diagram id="0_ErZN5WA0W29r6_q3-Z" name="Page-1">
     <mxGraphModel dx="1381" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -8,19 +8,19 @@
           <mxGeometry x="275" y="30" width="175" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8udPuZZa-RVb5TZ7qEcf-3" value="View Grades" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="650" width="170" height="80" as="geometry" />
+          <mxGeometry x="285" y="740" width="145" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8udPuZZa-RVb5TZ7qEcf-4" value="Manage Professors" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="140" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8udPuZZa-RVb5TZ7qEcf-5" value="View Subjects" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="540" width="170" height="80" as="geometry" />
+          <mxGeometry x="290" y="630" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8udPuZZa-RVb5TZ7qEcf-6" value="Manage Grades" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="440" width="180" height="80" as="geometry" />
+          <mxGeometry x="282.5" y="440" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8udPuZZa-RVb5TZ7qEcf-7" value="Manage Subjects" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="350" width="180" height="70" as="geometry" />
+          <mxGeometry x="280" y="350" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="8udPuZZa-RVb5TZ7qEcf-9" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelPosition=left;align=right;" vertex="1" parent="1">
           <mxGeometry x="90" y="160" width="80" height="90" as="geometry" />
@@ -74,6 +74,22 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="430" as="sourcePoint" />
             <mxPoint x="210" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8udPuZZa-RVb5TZ7qEcf-32" value="View Semesters" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="540" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8udPuZZa-RVb5TZ7qEcf-33" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="8udPuZZa-RVb5TZ7qEcf-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="450" as="sourcePoint" />
+            <mxPoint x="570" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8udPuZZa-RVb5TZ7qEcf-35" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.048;entryY=0.213;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="8udPuZZa-RVb5TZ7qEcf-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="182.5" y="640" as="sourcePoint" />
+            <mxPoint x="283" y="750" as="targetPoint" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
       </root>
